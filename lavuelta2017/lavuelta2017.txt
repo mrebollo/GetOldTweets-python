@@ -1,0 +1,1 @@
+python3 Exporter.py --querysearch "#LV2017" --since 2017-08-19 --until 2017-09-10 > lavuelta2017.txt
